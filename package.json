@@ -1,7 +1,6 @@
 {
   "name": "assignment-2",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -10,5 +9,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Xiaochen Wang",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwang345/web422_A2_1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xwang345/web422_A2_1/issues"
+  },
+  "homepage": "https://github.com/xwang345/web422_A2_1#readme",
+  "description": ""
 }
